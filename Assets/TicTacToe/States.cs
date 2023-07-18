@@ -1,0 +1,1 @@
+public enum State {Undefined, X, O };
