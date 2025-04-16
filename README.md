@@ -1,6 +1,10 @@
 Arcade Games Remake
 ====================
-Unity Collection of Tic tac toe and Minesweeper. This project was made for sixth form's Sytem Of Knowledge (SOK) project.
+Unity Collection of Tic tac toe and Minesweeper. This project was made for sixth form's Sytem Of Knowledge (SOK) project. 
+
+
+[Playable link](https://xram-lrak.itch.io/arcade)
+
 
 ![Main Menu](Docs/Main%20Menu.png)
 
